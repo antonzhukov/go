@@ -1,4 +1,4 @@
-module github.com/ecies/go
+module github.com/antonzhukov/go
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
